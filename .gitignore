@@ -1,0 +1,19 @@
+# --- Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# --- Environments
+venv/
+*/venv/
+.venv/
+.env
+
+# --- OS junk
+.DS_Store
+Thumbs.db
+
+# --- Data
+Phase1/data/**
+!Phase1/data/README.md
