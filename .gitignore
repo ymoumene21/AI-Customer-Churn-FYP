@@ -17,3 +17,14 @@ Thumbs.db
 # --- Data
 Phase1/data/**
 !Phase1/data/README.md
+
+Phase2/reports/
+
+# Docs / temp
+*.docx
+*.txt
+~$*
+
+# Reports / generated outputs
+reports/
+Phase2/reports/
